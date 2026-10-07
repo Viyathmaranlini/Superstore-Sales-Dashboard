@@ -1,6 +1,6 @@
 # Superstore Sales Dashboard | Power BI
 
-![Dashboard](dashboard.png)
+
 
 ## Overview
 An interactive Power BI dashboard analyzing Superstore sales performance across
